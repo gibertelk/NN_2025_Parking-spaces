@@ -14,6 +14,9 @@ batch=2:
 
 
 
+Так же были эксперименты с различными backbon. Среди них такие как ResNet18, VGG16, EfficintNet, Swin Transformer (SwinV2)
+
+
 
 ## Часть 3. Обучение модели и результаты
 
