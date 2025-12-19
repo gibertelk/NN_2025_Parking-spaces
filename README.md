@@ -27,9 +27,8 @@
 Результаты обучения модели 3:
 ![IMAGE 2025-12-19 23:31:50](https://github.com/user-attachments/assets/a1873679-02db-4a91-a71b-457d194fcff6)
 
-
 В качестве итоговой модели была выбрана кастомная Yolo с backbon ResNet18 с сеткой 13х13.
-![IMAGE 2025-12-19 23:23:03](https://github.com/user-attachments/assets/f3b5ad32-7215-419a-86d8-5ba9cc74688e)
+<img width="452" height="101" alt="Снимок экрана 2025-12-19 в 23 39 50" src="https://github.com/user-attachments/assets/3872e2e8-7d0c-47c6-abb8-9c46311c18c7" />
 
 ## Часть 3. Обучение модели и результаты
 Обучение итоговой модели происходило на 30 эпохах с batch_size=2.
